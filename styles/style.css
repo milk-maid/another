@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: #4a4a4a;
+    color: aqua;
+    text-align: center;
+    padding: 25px 0px;
+    margin: 0 0 25px 0;
+}
+
+main {
+    background-color: khaki;
+    width: 600px;
+    padding: 29px;
+    border: 15px groove red;
+    margin: 50px auto;
+}
+
+footer {
+    background-color: #444;
+    color: cyan;
+    text-align: center;
+    padding: 25px 0;
+    margin: 25px 0 0 0;
+}
