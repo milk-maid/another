@@ -6,14 +6,14 @@ header {
     color: aqua;
     text-align: center;
     padding: 25px 0px;
-    margin: 0 0 25px 0;
+    /* margin: 0 0 25px 0; */
 }
 
 main {
     background-color: khaki;
     width: 600px;
     padding: 29px;
-    border: 15px groove red;
+    border: 15px ridge red;
     margin: 50px auto;
 }
 
